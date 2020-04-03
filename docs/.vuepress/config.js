@@ -4,20 +4,23 @@ module.exports = {
   dest: './build', // 设置输出目录
   port: 1234, //端口
   themeConfig: { //主题配置
-      nav: [{
-              text: '主页',
-              link: '/'
-          }, // 导航条
-      ],
+    nav: [
+      {
+        text: '主页',
+        link: '/'
+      }, // 导航条
+    ],
       // 为以下路由添加侧边栏
-      sidebar: {
-          '/components/': [{
-                  collapsable: true,
-                  children: [
-                      'button'
-                  ]
-              }
-          ]
-      }
+    sidebar: {
+      '/components/': [
+        {
+          collapsable: true,
+          children: [
+            'button',
+            'icon'
+          ]  
+        }
+      ]
+    }
   }
 }
