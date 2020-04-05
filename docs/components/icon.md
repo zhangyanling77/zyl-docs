@@ -21,6 +21,13 @@
 :::
 </demo-block>
 
+<demo-block>
+:::slot source
+<icon-test2></icon-test2>
+:::
+
+</demo-block>
+
 ## Attributes
 参数|说明|类型|可选值|默认值
 :-|:-|:-|:-|:-|:-
