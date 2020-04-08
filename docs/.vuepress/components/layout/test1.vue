@@ -2,7 +2,43 @@
   <div>
     <zyl-row>
       <zyl-col :span="24">
-        <div class="grid-content bg-purple-dark">col-24</div>
+        <div class="grid-content bg-purple-dark"></div>
+      </zyl-col>
+    </zyl-row>
+    <br />
+    <zyl-row>
+      <zyl-col :span="12">
+        <div class="grid-content bg-purple-dark"></div>
+      </zyl-col>
+      <zyl-col :span="12">
+        <div class="grid-content bg-purple"></div>
+      </zyl-col>
+    </zyl-row>
+    <br />
+    <zyl-row>
+      <zyl-col :span="8">
+        <div class="grid-content bg-purple-dark"></div>
+      </zyl-col>
+      <zyl-col :span="8">
+        <div class="grid-content bg-purple"></div>
+      </zyl-col>
+      <zyl-col :span="8">
+        <div class="grid-content bg-purple-dark"></div>
+      </zyl-col>
+    </zyl-row>
+    <br />
+    <zyl-row>
+      <zyl-col :span="6">
+        <div class="grid-content bg-purple-dark"></div>
+      </zyl-col>
+      <zyl-col :span="6">
+        <div class="grid-content bg-purple"></div>
+      </zyl-col>
+      <zyl-col :span="6">
+        <div class="grid-content bg-purple-dark"></div>
+      </zyl-col>
+      <zyl-col :span="6">
+        <div class="grid-content bg-purple"></div>
       </zyl-col>
     </zyl-row>
   </div>
@@ -20,3 +56,4 @@
   min-height: 36px;
 }
 </style>
+
