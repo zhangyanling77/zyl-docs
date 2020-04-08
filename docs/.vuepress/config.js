@@ -18,7 +18,9 @@ module.exports = {
           children: [
             'button',
             'icon',
-            'layout'
+            'layout',
+            'container',
+            'input'
           ]  
         }
       ]
