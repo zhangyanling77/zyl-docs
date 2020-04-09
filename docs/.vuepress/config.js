@@ -14,14 +14,33 @@ module.exports = {
     sidebar: {
       '/components/': [
         {
+          title: 'Basic',
           collapsable: true,
           children: [
             'button',
             'icon',
             'layout',
-            'container',
-            'input'
+            'container'
           ]  
+        },
+        {
+          title: 'Form',
+          collapsable: false,
+          children: [
+            'input'
+          ]
+        },
+        {
+          title: 'Data'
+        },
+        {
+          title: 'Notice'
+        },
+        {
+          title: 'Navigation'
+        },
+        {
+          title: 'Others'
         }
       ]
     }
