@@ -27,11 +27,19 @@ module.exports = {
           title: 'Form',
           collapsable: false,
           children: [
-            'input'
+            'input',
+            'date-picker',
+            'upload'
           ]
         },
         {
-          title: 'Data'
+          title: 'Data',
+          collapsable: false,
+          children: [
+            'table',
+            'progress',
+            'pagination'
+          ]
         },
         {
           title: 'Notice'
@@ -40,7 +48,13 @@ module.exports = {
           title: 'Navigation'
         },
         {
-          title: 'Others'
+          title: 'Others',
+          collapsable: false,
+          children: [
+            'popover',
+            'carousel',
+            'infinite-scroll'
+          ]
         }
       ]
     }
