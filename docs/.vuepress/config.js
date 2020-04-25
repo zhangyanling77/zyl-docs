@@ -42,10 +42,14 @@ module.exports = {
           ]
         },
         {
-          title: 'Notice'
+          title: 'Notice',
+          collapsable: false,
+          children: [],
         },
         {
-          title: 'Navigation'
+          title: 'Navigation',
+          collapsable: false,
+          children: [],
         },
         {
           title: 'Others',
