@@ -1,15 +1,18 @@
 {
-  "name": "zhu-ui-doc",
+  "name": "zyl-docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "a ui component library docs based on vuepress.",
   "main": "index.js",
-  "keywords": [],
+  "keywords": [
+    "zyl-ui",
+    "vue"
+  ],
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "zhangyanling",
+  "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.4.0"
   },
