@@ -228,6 +228,46 @@
       <zyl-icon icon="plus-square-fill"></zyl-icon>
       <span>icon-plus-square-fill</span>
     </div>
+    <div class="card">
+      <zyl-icon icon="eye-close"></zyl-icon>
+      <span>icon-eye-close</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="eyeclose-fill"></zyl-icon>
+      <span>icon-eyeclose-fill</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="eye-fill"></zyl-icon>
+      <span>icon-eye-fill</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="eye"></zyl-icon>
+      <span>icon-eye</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="attachment"></zyl-icon>
+      <span>icon-attachment</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="cloud-upload"></zyl-icon>
+      <span>icon-cloud-upload</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="calendar"></zyl-icon>
+      <span>icon-calendar</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="doubleleft"></zyl-icon>
+      <span>icon-doubleleft</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="doubleright"></zyl-icon>
+      <span>icon-doubleright</span>
+    </div>
+    <div class="card">
+      <zyl-icon icon="star"></zyl-icon>
+      <span>icon-star</span>
+    </div>
   </div>
 </template>
 
