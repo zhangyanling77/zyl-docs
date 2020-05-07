@@ -21,7 +21,7 @@
 :::
 </demo-block>
 
-所有的图标
+## 图标集合
 
 <demo-block>
 :::slot source
