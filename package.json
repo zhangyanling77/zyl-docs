@@ -20,7 +20,7 @@
     "core-js": "^2.6.11",
     "element-ui": "^2.13.0",
     "highlight.js": "^9.18.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2"
   }
 }
